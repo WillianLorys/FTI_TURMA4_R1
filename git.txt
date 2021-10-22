@@ -1,0 +1,11 @@
+git status
+git init    
+
+git add (nome do arquivo)
+git add . 
+git commit -m "meu primeiro projeto em commit"
+git remote add origin https://github.com/WillianLorys/FTI_Turma4_R1.git
+git push -u origin master
+
+
+git config -- global user.name
